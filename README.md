@@ -10,3 +10,6 @@ To achieve this, I used the Hugging Face transformers library and loaded the GPT
 #### Model Convergence: Training with limited data led to convergence issues. I addressed this by increasing the number of training epochs and ensuring the dataset was cleaned and diverse.
 #### Repetition: The model occasionally repeated phrases, which I mitigated by using a repetition penalty.
 By systematically adjusting these parameters and refining the dataset, I achieved better quality and coherence in the generated text.
+
+
+![Screenshot 2024-10-18 015951](https://github.com/user-attachments/assets/7670ee50-c4e0-412a-b2dc-b56e3cfa83c5)
