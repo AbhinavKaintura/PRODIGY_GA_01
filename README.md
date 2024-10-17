@@ -13,3 +13,10 @@ By systematically adjusting these parameters and refining the dataset, I achieve
 
 
 ![Screenshot 2024-10-18 015951](https://github.com/user-attachments/assets/7670ee50-c4e0-412a-b2dc-b56e3cfa83c5)
+![Screenshot 2024-10-18 020014](https://github.com/user-attachments/assets/d0275bf7-2d63-42c5-86fd-3b54c63b5f2b)
+
+## Tokenization and Its Role:
+Tokenization is the process of breaking down raw text into smaller components (subwords or tokens) that GPT-2 can process. Each token is mapped to an integer ID, and the model processes sequences of these tokens during training and generation. Tokenization plays a critical role in ensuring that the model can learn from and generate human-readable text efficiently. In this task, the tokenizer handled complex vocabulary by using subword units, allowing the model to better handle out-of-vocabulary words or novel terms during both training and generation.
+
+Overall, this project helped me understand how essential components—like tokenization, hyperparameter tuning, and training strategies—work together to achieve high-quality text generation.
+
