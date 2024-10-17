@@ -1,4 +1,5 @@
-# PRODIGY_GA_01
+# SmartTextGen
+SmartTextGen is a Generative AI project focused on fine-tuning a pre-trained GPT-2 model to generate coherent and contextually relevant text based on custom datasets. By optimizing parameters and employing advanced sampling techniques, it produces high-quality text tailored to specific prompts.
 ## Aim:
 The goal of this project was to fine-tune a pre-trained GPT-2 model (specifically GPT-2 Medium) using PyTorch to generate coherent and contextually relevant text based on a custom dataset.
 
